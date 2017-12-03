@@ -310,9 +310,18 @@ footer h4
 #video 
 {
     background-color: #444;
-    padding-bottom: 50px; 
+    padding-bottom: 20px; 
     text-align : center; 
     float:inherit;
+}
+#video h2
+{
+    color: #fff;
+    font-size: 40px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
 }
 
 
@@ -322,13 +331,14 @@ footer h4
 {
     height: 580px; 
     background: url("../Images/famille.jpg") center no-repeat; 
+    text-align: center; 
 }
 
 
 #description
 {
     text-align: center;
-    margin-top: 0px; 
+    margin-top: 0px;
 }
 
 
