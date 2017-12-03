@@ -297,17 +297,11 @@ footer h4
     color:#fff;
     margin-top: 30px; 
 }
-.logo1
+.logos
 {
     display: inline;
-   float: left;
-    margin: auto;
-}
-.logo2
-{
-    display: inline;
-   float: right;
-    margin: auto; 
+    margin-right: 20px; 
+    text-align: center;
 }
 
 
