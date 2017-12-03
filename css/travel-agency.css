@@ -96,7 +96,7 @@ header nav ul li a
 #main-image 
 {
     height: 580px; 
-    background: url(Images/mer3.png) center no-repeat;
+    background: url("../Images/mer3.png") center no-repeat;
     
 }
 #main-image h2
@@ -151,15 +151,15 @@ header nav ul li a
 }
 #step-1
 {
-    background: url(Images/steps-icon-1.png) no-repeat top center;
+    background: url("../Images/steps-icon-1.png") no-repeat top center;
 }
 #step-2
 {
-    background: url(Images/steps-icon-2.png) no-repeat top center;  
+    background: url("../Images/steps-icon-2.png") no-repeat top center;  
 }
 #step-3
 {
-    background: url(Images/steps-icon-3.png) no-repeat top center;
+    background: url("../Images/steps-icon-3.png") no-repeat top center;
 }
 
 /*POSSIBILITIES */
@@ -321,7 +321,7 @@ footer h4
 #circuit-1
 {
     height: 580px; 
-    background: url('Images/famille.jpg') center no-repeat; 
+    background: url("../Images/famille.jpg") center no-repeat; 
 }
 
 
